@@ -1,3 +1,3 @@
-# app1
+# CareConnect
 
-A new Flutter project.
+An app made with Flutter and MySQL for booking assistance while also managing the workers and the services available.
